@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Silas1406
 - 👀 I’m interested in new Projects
 - 🌱 I’m currently learning alt:V API
-- 💞️ I’m looking to collaborate on alt:V
+- 💞️ I’m looking to collaborate on alt:V & FiveM
 - 📫 How to reach me Discord: https://discord.gg/gXyhXusGrf
 
 <!---
